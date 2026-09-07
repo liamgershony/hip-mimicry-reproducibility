@@ -131,3 +131,29 @@ identical ScanProsite pipeline, not this calculation.
 with open(_os.path.join(RES, "metric_independence.txt"), "w") as f:
     f.write("See console output of scripts/metric_independence.py\n")
 print(f"(run: python3 scripts/metric_independence.py)")
+
+# ---------------------------------------------------------------- 5. within-system
+print()
+print("=" * 72)
+print("5. WITHIN-SYSTEM vs POOLED (pooling can create or hide correlation)")
+print("=" * 72)
+three = ["TCR_pMHC_ipTM", "interface_pLDDT", "dG_kcal_mol"]
+print(f"{'group':26s} {'n':>4s} {'ipTM~ipLDDT':>13s} {'ipTM~dG':>10s} {'ipLDDT~dG':>11s} {'effdim':>7s}")
+groups = [("POOLED (all systems)", cands)]
+for s in ["HIP6/A2.11/DQ8", "HIP11/8.E3/DQ8-trans", "HIP11/8.E3/DQ8"]:
+    groups.append((s, [k for k in cands if k[0] == s]))
+for name, ks in groups:
+    if len(ks) < 4:
+        print(f"{name:26s} {len(ks):>4d}   (n too small)"); continue
+    a, b, c = (means(ks, m) for m in three)
+    Zg = np.column_stack([a, b, c]); Zg = (Zg - Zg.mean(0)) / Zg.std(0, ddof=1)
+    e = np.linalg.eigvalsh(np.corrcoef(Zg, rowvar=False))[::-1]
+    print(f"{name:26s} {len(ks):>4d} {stats.pearsonr(a,b)[0]:13.3f} "
+          f"{stats.pearsonr(a,c)[0]:10.3f} {stats.pearsonr(b,c)[0]:11.3f} "
+          f"{(e.sum()**2)/np.sum(e**2):7.2f}")
+print("""
+Pooling did BOTH things it can do: it HID the ipTM/i-pLDDT association (pooled
+r = 0.560; within-system 0.648, 0.905, 0.972) and it CREATED the ipTM/dG one
+(pooled r = -0.580; within-system +0.086, -0.240, -0.457). Within-system values
+are the ones to report.
+""")
