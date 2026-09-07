@@ -1,0 +1,26 @@
+system,model_index,iptm,ptm,provenance,source_file
+HIP6/A2.11/DQ8,0,,,MISSING,/Users/liamgershony/Documents/Does it Mimic/hip-mimicry-reproducibility/alphafold3_reference_complexes/fold_hip6_tcr_a211_dq8/fold_hip6_tcr_a211_dq8_summary_confidences_0.json
+HIP6/A2.11/DQ8,1,,,MISSING,/Users/liamgershony/Documents/Does it Mimic/hip-mimicry-reproducibility/alphafold3_reference_complexes/fold_hip6_tcr_a211_dq8/fold_hip6_tcr_a211_dq8_summary_confidences_1.json
+HIP6/A2.11/DQ8,2,,,MISSING,/Users/liamgershony/Documents/Does it Mimic/hip-mimicry-reproducibility/alphafold3_reference_complexes/fold_hip6_tcr_a211_dq8/fold_hip6_tcr_a211_dq8_summary_confidences_2.json
+HIP6/A2.11/DQ8,3,,,MISSING,/Users/liamgershony/Documents/Does it Mimic/hip-mimicry-reproducibility/alphafold3_reference_complexes/fold_hip6_tcr_a211_dq8/fold_hip6_tcr_a211_dq8_summary_confidences_3.json
+HIP6/A2.11/DQ8,4,,,MISSING,/Users/liamgershony/Documents/Does it Mimic/hip-mimicry-reproducibility/alphafold3_reference_complexes/fold_hip6_tcr_a211_dq8/fold_hip6_tcr_a211_dq8_summary_confidences_4.json
+HIP11/8.E3/DQ8,0,,,MISSING,/Users/liamgershony/Documents/Does it Mimic/hip-mimicry-reproducibility/alphafold3_reference_complexes/fold_hip_run_2/fold_hip_run_2_summary_confidences_0.json
+HIP11/8.E3/DQ8,1,,,MISSING,/Users/liamgershony/Documents/Does it Mimic/hip-mimicry-reproducibility/alphafold3_reference_complexes/fold_hip_run_2/fold_hip_run_2_summary_confidences_1.json
+HIP11/8.E3/DQ8,2,,,MISSING,/Users/liamgershony/Documents/Does it Mimic/hip-mimicry-reproducibility/alphafold3_reference_complexes/fold_hip_run_2/fold_hip_run_2_summary_confidences_2.json
+HIP11/8.E3/DQ8,3,,,MISSING,/Users/liamgershony/Documents/Does it Mimic/hip-mimicry-reproducibility/alphafold3_reference_complexes/fold_hip_run_2/fold_hip_run_2_summary_confidences_3.json
+HIP11/8.E3/DQ8,4,,,MISSING,/Users/liamgershony/Documents/Does it Mimic/hip-mimicry-reproducibility/alphafold3_reference_complexes/fold_hip_run_2/fold_hip_run_2_summary_confidences_4.json
+HIP11/8.E3/DQ8-trans,0,,,MISSING,/Users/liamgershony/Documents/Does it Mimic/hip-mimicry-reproducibility/alphafold3_reference_complexes/fold_hip11_gse8e3_dq8trans/fold_hip11_gse8e3_dq8trans_summary_confidences_0.json
+HIP11/8.E3/DQ8-trans,1,,,MISSING,/Users/liamgershony/Documents/Does it Mimic/hip-mimicry-reproducibility/alphafold3_reference_complexes/fold_hip11_gse8e3_dq8trans/fold_hip11_gse8e3_dq8trans_summary_confidences_1.json
+HIP11/8.E3/DQ8-trans,2,,,MISSING,/Users/liamgershony/Documents/Does it Mimic/hip-mimicry-reproducibility/alphafold3_reference_complexes/fold_hip11_gse8e3_dq8trans/fold_hip11_gse8e3_dq8trans_summary_confidences_2.json
+HIP11/8.E3/DQ8-trans,3,,,MISSING,/Users/liamgershony/Documents/Does it Mimic/hip-mimicry-reproducibility/alphafold3_reference_complexes/fold_hip11_gse8e3_dq8trans/fold_hip11_gse8e3_dq8trans_summary_confidences_3.json
+HIP11/8.E3/DQ8-trans,4,,,MISSING,/Users/liamgershony/Documents/Does it Mimic/hip-mimicry-reproducibility/alphafold3_reference_complexes/fold_hip11_gse8e3_dq8trans/fold_hip11_gse8e3_dq8trans_summary_confidences_4.json
+E2/HIP11/DQ2,0,,,MISSING,/Users/liamgershony/Documents/Does it Mimic/hip-mimicry-reproducibility/alphafold3_reference_complexes/fold_hip11_tcr_e2b_dq2/fold_hip11_tcr_e2b_dq2_summary_confidences_0.json
+E2/HIP11/DQ2,1,,,MISSING,/Users/liamgershony/Documents/Does it Mimic/hip-mimicry-reproducibility/alphafold3_reference_complexes/fold_hip11_tcr_e2b_dq2/fold_hip11_tcr_e2b_dq2_summary_confidences_1.json
+E2/HIP11/DQ2,2,,,MISSING,/Users/liamgershony/Documents/Does it Mimic/hip-mimicry-reproducibility/alphafold3_reference_complexes/fold_hip11_tcr_e2b_dq2/fold_hip11_tcr_e2b_dq2_summary_confidences_2.json
+E2/HIP11/DQ2,3,,,MISSING,/Users/liamgershony/Documents/Does it Mimic/hip-mimicry-reproducibility/alphafold3_reference_complexes/fold_hip11_tcr_e2b_dq2/fold_hip11_tcr_e2b_dq2_summary_confidences_3.json
+E2/HIP11/DQ2,4,,,MISSING,/Users/liamgershony/Documents/Does it Mimic/hip-mimicry-reproducibility/alphafold3_reference_complexes/fold_hip11_tcr_e2b_dq2/fold_hip11_tcr_e2b_dq2_summary_confidences_4.json
+A3.10/HIP6/DQ8,0,,,MISSING,/Users/liamgershony/Documents/Does it Mimic/hip-mimicry-reproducibility/alphafold3_reference_complexes/fold_hip6_tcr_a310_dq8/fold_hip6_tcr_a310_dq8_summary_confidences_0.json
+A3.10/HIP6/DQ8,1,,,MISSING,/Users/liamgershony/Documents/Does it Mimic/hip-mimicry-reproducibility/alphafold3_reference_complexes/fold_hip6_tcr_a310_dq8/fold_hip6_tcr_a310_dq8_summary_confidences_1.json
+A3.10/HIP6/DQ8,2,,,MISSING,/Users/liamgershony/Documents/Does it Mimic/hip-mimicry-reproducibility/alphafold3_reference_complexes/fold_hip6_tcr_a310_dq8/fold_hip6_tcr_a310_dq8_summary_confidences_2.json
+A3.10/HIP6/DQ8,3,,,MISSING,/Users/liamgershony/Documents/Does it Mimic/hip-mimicry-reproducibility/alphafold3_reference_complexes/fold_hip6_tcr_a310_dq8/fold_hip6_tcr_a310_dq8_summary_confidences_3.json
+A3.10/HIP6/DQ8,4,,,MISSING,/Users/liamgershony/Documents/Does it Mimic/hip-mimicry-reproducibility/alphafold3_reference_complexes/fold_hip6_tcr_a310_dq8/fold_hip6_tcr_a310_dq8_summary_confidences_4.json
