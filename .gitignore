@@ -3,3 +3,4 @@ __pycache__/
 .DS_Store
 results/figure3_rebuild/*.aux
 results/figure3_rebuild/*.log
+data/proteome_cache/

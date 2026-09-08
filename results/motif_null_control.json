@@ -1,0 +1,82 @@
+{
+  "reconstruction": {
+    "sequences": 3039,
+    "residues": 1507130,
+    "per_taxon": [
+      {
+        "name": "Mumps virus",
+        "taxid": 2560602,
+        "seqs": 56,
+        "residues": 23953
+      },
+      {
+        "name": "Rubella virus",
+        "taxid": 11041,
+        "seqs": 19,
+        "residues": 30727
+      },
+      {
+        "name": "SARS-CoV-2",
+        "taxid": 2697049,
+        "seqs": 17,
+        "residues": 14439
+      },
+      {
+        "name": "Enterovirus",
+        "taxid": 12059,
+        "seqs": 49,
+        "residues": 97511
+      },
+      {
+        "name": "Rotavirus",
+        "taxid": 10912,
+        "seqs": 484,
+        "residues": 233352
+      },
+      {
+        "name": "Orthoherpesviridae",
+        "taxid": 3044472,
+        "seqs": 2097,
+        "residues": 996453
+      },
+      {
+        "name": "Bacteroides dorei",
+        "taxid": 357276,
+        "seqs": 0,
+        "residues": 0
+      },
+      {
+        "name": "Clostridium sporogenes",
+        "taxid": 1505,
+        "seqs": 9,
+        "residues": 8678
+      },
+      {
+        "name": "Klebsiella oxytoca",
+        "taxid": 571,
+        "seqs": 61,
+        "residues": 20598
+      },
+      {
+        "name": "Parabacteroides distasonis",
+        "taxid": 823,
+        "seqs": 247,
+        "residues": 81419
+      }
+    ]
+  },
+  "observed": {
+    "1": 225,
+    "2": 619,
+    "5": 174
+  },
+  "observed_total": 1018,
+  "null": {
+    "replicates": 40,
+    "mean": 1054.225,
+    "sd": 38.07784704913654,
+    "min": 982,
+    "max": 1136,
+    "empirical_p": 0.8536585365853658
+  }
+}
