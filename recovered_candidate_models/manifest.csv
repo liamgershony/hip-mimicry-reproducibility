@@ -1,0 +1,114 @@
+system,role,peptide_label,sequence,core_modelled,archived_path,original_filename,md5
+HIP11/8.E3/DQ8,candidate,Candidate 1:,SDLLASVDSEEVRQ,LLASVDSEEVR,recovered_candidate_models/HIP11_8.E3_DQ8/SDLLASVDSEEVRQ/model_1.pdb,ranked_0 (1).pdb,547bc2b24fc63c87c56f441d89b39150
+HIP11/8.E3/DQ8,candidate,Candidate 4:,NDLLKSVDSEEIRE,LLKSVDSEEIR,recovered_candidate_models/HIP11_8.E3_DQ8/NDLLKSVDSEEIRE/model_1.pdb,ranked_0 (10).pdb,864bfeeabc0acef9db0c1c3374854568
+HIP11/8.E3/DQ8-trans,candidate,Candidate 5:,GKIVSSIVADLIMP,IVSSIVADLIM,recovered_candidate_models/HIP11_8.E3_DQ8-trans/GKIVSSIVADLIMP/model_1.pdb,ranked_0 (100).pdb,2b7ee9d0476d1c836d202b9e33a688a6
+HIP11/8.E3/DQ8,candidate,Candidate 5:,LITPITIDAEFTSR,TPITIDAEFTS,recovered_candidate_models/HIP11_8.E3_DQ8/LITPITIDAEFTSR/model_1.pdb,ranked_0 (11).pdb,ba4416663415cad970d65eeff8010b48
+HIP11/8.E3/DQ8,native_HIP,HIP11,SLQPLALEAEDLQV,QPLALEAEDLQ,recovered_candidate_models/HIP11_8.E3_DQ8/SLQPLALEAEDLQV/model_1.pdb,ranked_0 (12).pdb,fb44974631deba9f6683dc99327cd70d
+HIP11/8.E3/DQ8,candidate,Candidate 2:,YTGDLGIESDELAS,DLGIESDELAS,recovered_candidate_models/HIP11_8.E3_DQ8/YTGDLGIESDELAS/model_1.pdb,ranked_0 (14) (1).pdb,44aa5833c0b98565901946f59cc28a36
+HIP6/A2.11/DQ8,candidate,Candidate 1:,TDAEIGTAPSLEEVM,DAEIGTAPSLE,recovered_candidate_models/HIP6_A2.11_DQ8/TDAEIGTAPSLEEVM/model_1.pdb,ranked_0 (17).pdb,cd2ddc2a21a22a8b354400250a73a6c4
+HIP6/A2.11/DQ8,candidate,Candidate 1:,TDAEIGTAPSLEEVM,DAEIGTAPSLE,recovered_candidate_models/HIP6_A2.11_DQ8/TDAEIGTAPSLEEVM/model_2.pdb,ranked_0 (18).pdb,bf50c95a000bb4bf9afb777aa404dcdf
+HIP6/A2.11/DQ8,candidate,Candidate 1:,TDAEIGTAPSLEEVM,DAEIGTAPSLE,recovered_candidate_models/HIP6_A2.11_DQ8/TDAEIGTAPSLEEVM/model_3.pdb,ranked_0 (19).pdb,3d546bdeab6728503dcc9ac33c8d6afb
+HIP6/A2.11/DQ8,candidate,Candidate 1:,TDAEIGTAPSLEEVM,DAEIGTAPSLE,recovered_candidate_models/HIP6_A2.11_DQ8/TDAEIGTAPSLEEVM/model_4.pdb,ranked_0 (20).pdb,69b3d1998cdfdc366e6aea566cd36bea
+HIP6/A2.11/DQ8,candidate,Candidate 1:,TDAEIGTAPSLEEVM,DAEIGTAPSLE,recovered_candidate_models/HIP6_A2.11_DQ8/TDAEIGTAPSLEEVM/model_5.pdb,ranked_0 (21).pdb,248f2f15f490ea65d8ddad4802502cc7
+HIP6/A2.11/DQ8,candidate,Candidate 2:,DDVEIGANTTIDRAV,DVEIGANTTID,recovered_candidate_models/HIP6_A2.11_DQ8/DDVEIGANTTIDRAV/model_1.pdb,ranked_0 (22).pdb,871d7a0f7513cfc5301d70d83d36b877
+HIP6/A2.11/DQ8,candidate,Candidate 2:,DDVEIGANTTIDRAV,DVEIGANTTID,recovered_candidate_models/HIP6_A2.11_DQ8/DDVEIGANTTIDRAV/model_2.pdb,ranked_0 (23).pdb,29b0169852ede78a33d7da469804ddc6
+HIP6/A2.11/DQ8,candidate,Candidate 2:,DDVEIGANTTIDRAV,DVEIGANTTID,recovered_candidate_models/HIP6_A2.11_DQ8/DDVEIGANTTIDRAV/model_3.pdb,ranked_0 (24).pdb,e2b83c4d221f5a435db993aaa97ac7b1
+HIP6/A2.11/DQ8,candidate,Candidate 2:,DDVEIGANTTIDRAV,DVEIGANTTID,recovered_candidate_models/HIP6_A2.11_DQ8/DDVEIGANTTIDRAV/model_4.pdb,ranked_0 (25).pdb,7eb5b1a9c66eb151dbde0ea2fbcd97e4
+HIP6/A2.11/DQ8,candidate,Candidate 2:,DDVEIGANTTIDRAV,DVEIGANTTID,recovered_candidate_models/HIP6_A2.11_DQ8/DDVEIGANTTIDRAV/model_5.pdb,ranked_0 (26).pdb,894644cc7e4af827fe5d3c61821d4e61
+HIP6/A2.11/DQ8,candidate,Candidate 3:,MHFDVSGDVSVDMHR,HFDVSGDVSVD,recovered_candidate_models/HIP6_A2.11_DQ8/MHFDVSGDVSVDMHR/model_1.pdb,ranked_0 (27).pdb,937374a3c80fae5ca3bb9f91d38524b9
+HIP6/A2.11/DQ8,candidate,Candidate 3:,MHFDVSGDVSVDMHR,HFDVSGDVSVD,recovered_candidate_models/HIP6_A2.11_DQ8/MHFDVSGDVSVDMHR/model_2.pdb,ranked_0 (28).pdb,d54b2abcfc3ee66f2387640f42d2e11a
+HIP6/A2.11/DQ8,candidate,Candidate 3:,MHFDVSGDVSVDMHR,HFDVSGDVSVD,recovered_candidate_models/HIP6_A2.11_DQ8/MHFDVSGDVSVDMHR/model_3.pdb,ranked_0 (29).pdb,7c9ce414354d84f1c61fc30c300eb3bd
+HIP6/A2.11/DQ8,candidate,Candidate 3:,MHFDVSGDVSVDMHR,HFDVSGDVSVD,recovered_candidate_models/HIP6_A2.11_DQ8/MHFDVSGDVSVDMHR/model_4.pdb,ranked_0 (30).pdb,5ae34ab81d904d94aa940aac1695c3cf
+HIP6/A2.11/DQ8,candidate,Candidate 3:,MHFDVSGDVSVDMHR,HFDVSGDVSVD,recovered_candidate_models/HIP6_A2.11_DQ8/MHFDVSGDVSVDMHR/model_5.pdb,ranked_0 (31).pdb,fcde57f10c96b55e5ac92b9ccdba4521
+HIP6/A2.11/DQ8,candidate,Candidate 4:,KITELGIYPAVDPLE,KITELGIYPAV,recovered_candidate_models/HIP6_A2.11_DQ8/KITELGIYPAVDPLE/model_1.pdb,ranked_0 (32).pdb,d329b4a356f6019dfa8e1515878fcee7
+HIP6/A2.11/DQ8,candidate,Candidate 4:,KITELGIYPAVDPLE,KITELGIYPAV,recovered_candidate_models/HIP6_A2.11_DQ8/KITELGIYPAVDPLE/model_2.pdb,ranked_0 (33).pdb,fab06b9b7e942a60c02f91bc8fb7f297
+HIP6/A2.11/DQ8,candidate,Candidate 4:,KITELGIYPAVDPLE,KITELGIYPAV,recovered_candidate_models/HIP6_A2.11_DQ8/KITELGIYPAVDPLE/model_3.pdb,ranked_0 (34).pdb,68e7d52c8f660b91e0d7bdd651e07845
+HIP6/A2.11/DQ8,candidate,Candidate 4:,KITELGIYPAVDPLE,KITELGIYPAV,recovered_candidate_models/HIP6_A2.11_DQ8/KITELGIYPAVDPLE/model_4.pdb,ranked_0 (35).pdb,2acb6514c7150b94ad88ea1f3cdb6207
+HIP6/A2.11/DQ8,candidate,Candidate 4:,KITELGIYPAVDPLE,KITELGIYPAV,recovered_candidate_models/HIP6_A2.11_DQ8/KITELGIYPAVDPLE/model_5.pdb,ranked_0 (36).pdb,4bf1c78e19681d9c0d7b9dff46632cc7
+HIP6/A2.11/DQ8,candidate,Candidate 5:,KEVEVLDAEALEDQS,EVEVLDAEALE,recovered_candidate_models/HIP6_A2.11_DQ8/KEVEVLDAEALEDQS/model_1.pdb,ranked_0 (37).pdb,857772e7d0bbcbc701cd2466f8eaf4d0
+HIP6/A2.11/DQ8,candidate,Candidate 5:,KEVEVLDAEALEDQS,EVEVLDAEALE,recovered_candidate_models/HIP6_A2.11_DQ8/KEVEVLDAEALEDQS/model_2.pdb,ranked_0 (38).pdb,2599252d45f616a0c65eb3a1d8d983d9
+HIP6/A2.11/DQ8,candidate,Candidate 5:,KEVEVLDAEALEDQS,EVEVLDAEALE,recovered_candidate_models/HIP6_A2.11_DQ8/KEVEVLDAEALEDQS/model_3.pdb,ranked_0 (39).pdb,b969d34e4ad4a824d208300e78a61cd3
+HIP11/8.E3/DQ8,candidate,Candidate 2:,YTGDLGIESDELAS,DLGIESDELAS,recovered_candidate_models/HIP11_8.E3_DQ8/YTGDLGIESDELAS/model_2.pdb,ranked_0 (4).pdb,1a638c24e968c3f00f36abd029ef0abc
+HIP6/A2.11/DQ8,candidate,Candidate 5:,KEVEVLDAEALEDQS,EVEVLDAEALE,recovered_candidate_models/HIP6_A2.11_DQ8/KEVEVLDAEALEDQS/model_4.pdb,ranked_0 (40).pdb,37ade455b2525d6c7cb9ca64901343b9
+HIP6/A2.11/DQ8,candidate,Candidate 5:,KEVEVLDAEALEDQS,EVEVLDAEALE,recovered_candidate_models/HIP6_A2.11_DQ8/KEVEVLDAEALEDQS/model_5.pdb,ranked_0 (41).pdb,ad1e20297ddd394ba6dc2418a9c48c47
+HIP6/A2.11/DQ8,negative_control,Negative Control:,RRDRKPPPDRDRKRR,RDRKPPPDRDR,recovered_candidate_models/HIP6_A2.11_DQ8/RRDRKPPPDRDRKRR/model_1.pdb,ranked_0 (42).pdb,0252fced2aed9dca082f76dc64123ce6
+HIP6/A2.11/DQ8,negative_control,Negative Control:,RRDRKPPPDRDRKRR,RDRKPPPDRDR,recovered_candidate_models/HIP6_A2.11_DQ8/RRDRKPPPDRDRKRR/model_2.pdb,ranked_0 (43).pdb,1b9f4f5166d89a4650da796638035fe7
+HIP6/A2.11/DQ8,negative_control,Negative Control:,RRDRKPPPDRDRKRR,RDRKPPPDRDR,recovered_candidate_models/HIP6_A2.11_DQ8/RRDRKPPPDRDRKRR/model_3.pdb,ranked_0 (44).pdb,ca1313bada77d129ff4d7206162bb12c
+HIP6/A2.11/DQ8,negative_control,Negative Control:,RRDRKPPPDRDRKRR,RDRKPPPDRDR,recovered_candidate_models/HIP6_A2.11_DQ8/RRDRKPPPDRDRKRR/model_4.pdb,ranked_0 (45).pdb,472f7669efd592359123bcb3ff42a4a4
+HIP6/A2.11/DQ8,negative_control,Negative Control:,RRDRKPPPDRDRKRR,RDRKPPPDRDR,recovered_candidate_models/HIP6_A2.11_DQ8/RRDRKPPPDRDRKRR/model_5.pdb,ranked_0 (46).pdb,c6d6fc8c8421823b3a5ec443c375e4d1
+HIP6/A2.11/DQ8,candidate,Candidate 14:,ASVDVDVRLGVDPRK,SVDVDVRLGVD,recovered_candidate_models/HIP6_A2.11_DQ8/ASVDVDVRLGVDPRK/model_1.pdb,ranked_0 (47).pdb,f8e8f84dfff4e8119562a66012abf36c
+HIP6/A2.11/DQ8,candidate,Candidate 11:,NSQEVPALTAVETGA,EVPALTAVETG,recovered_candidate_models/HIP6_A2.11_DQ8/NSQEVPALTAVETGA/model_1.pdb,ranked_0 (48).pdb,4740895e46879cd6094fba4abe4fb6c5
+HIP6/A2.11/DQ8,native_HIP,HIP6,GQVELGGGNAVEVLK,ELGGGNAVEVL,recovered_candidate_models/HIP6_A2.11_DQ8/GQVELGGGNAVEVLK/model_1.pdb,ranked_0 (49).pdb,f273da65f42708e98bd19e24dae98efb
+HIP11/8.E3/DQ8,negative_control,Negative Control:,KDVDAAVDAEVVQF,VDAAVDAEVVQ,recovered_candidate_models/HIP11_8.E3_DQ8/KDVDAAVDAEVVQF/model_1.pdb,ranked_0 (50).pdb,e827b18d7735abb42b5c6961ead79b01
+HIP11/8.E3/DQ8,negative_control,Negative Control:,KDVDAAVDAEVVQF,VDAAVDAEVVQ,recovered_candidate_models/HIP11_8.E3_DQ8/KDVDAAVDAEVVQF/model_2.pdb,ranked_0 (51).pdb,b6e0fc7e7b005f025b27815c8c147721
+HIP11/8.E3/DQ8,negative_control,Negative Control:,KDVDAAVDAEVVQF,VDAAVDAEVVQ,recovered_candidate_models/HIP11_8.E3_DQ8/KDVDAAVDAEVVQF/model_3.pdb,ranked_0 (52).pdb,1acf288ac7e1f7d8d8e3bef4e2215c9d
+HIP11/8.E3/DQ8,negative_control,Negative Control:,KDVDAAVDAEVVQF,VDAAVDAEVVQ,recovered_candidate_models/HIP11_8.E3_DQ8/KDVDAAVDAEVVQF/model_4.pdb,ranked_0 (53).pdb,9d9327078d6e06c77443b4d90a38fe91
+HIP11/8.E3/DQ8,negative_control,Negative Control:,KDVDAAVDAEVVQF,VDAAVDAEVVQ,recovered_candidate_models/HIP11_8.E3_DQ8/KDVDAAVDAEVVQF/model_5.pdb,ranked_0 (54).pdb,7243269aac70181523d5c81ad3fd12a3
+HIP11/8.E3/DQ8-trans,candidate,Candidate 1:,RRNVATLQAENVTG,NVATLQAENVT,recovered_candidate_models/HIP11_8.E3_DQ8-trans/RRNVATLQAENVTG/model_1.pdb,ranked_0 (55).pdb,047489484cbdb0f2120746725fbe639d
+HIP11/8.E3/DQ8,native_HIP,HIP11,SLQPLALEAEDLQV,QPLALEAEDLQ,recovered_candidate_models/HIP11_8.E3_DQ8/SLQPLALEAEDLQV/model_2.pdb,ranked_0 (57).pdb,eafbd6590faed95b6e95d0b8693b9377
+HIP11/8.E3/DQ8,candidate,Candidate 3:,SDLLKSVDSEEVRE,LLKSVDSEEVR,recovered_candidate_models/HIP11_8.E3_DQ8/SDLLKSVDSEEVRE/model_1.pdb,ranked_0 (6).pdb,6ada30cb9b3335c5cb6b0fadd99a3540
+HIP11/8.E3/DQ8-trans,candidate,Candidate 1:,RRNVATLQAENVTG,NVATLQAENVT,recovered_candidate_models/HIP11_8.E3_DQ8-trans/RRNVATLQAENVTG/model_2.pdb,ranked_0 (60).pdb,0d56d072d69b22aface454788e68b859
+HIP11/8.E3/DQ8,native_HIP,HIP11,SLQPLALEAEDLQV,QPLALEAEDLQ,recovered_candidate_models/HIP11_8.E3_DQ8/SLQPLALEAEDLQV/model_3.pdb,ranked_0 (62).pdb,31b224275087fb6653fedb7e0a4e1d09
+HIP11/8.E3/DQ8-trans,candidate,Candidate 2:,DYVVNTINSDPVME,VVNTINSDPVM,recovered_candidate_models/HIP11_8.E3_DQ8-trans/DYVVNTINSDPVME/model_1.pdb,ranked_0 (63).pdb,d5ab6f7dc463a70db17978563950c6b9
+HIP6/A2.11/DQ8,negative_control,Negative Control:,RRDRKPPPDRDRKRR,RDRKPPPDRDR,recovered_candidate_models/HIP6_A2.11_DQ8/RRDRKPPPDRDRKRR/model_6.pdb,ranked_0 (65).pdb,32d768839b2922f231b399157f03dda7
+HIP11/8.E3/DQ8,candidate,Candidate 6:,DHIAATLDAEATFA,IAATLDAEATF,recovered_candidate_models/HIP11_8.E3_DQ8/DHIAATLDAEATFA/model_1.pdb,ranked_0 (7).pdb,8aaa180a28ea997143bfe9ddcfef3e75
+HIP6/A2.11/DQ8,candidate,Candidate 6:,KEVEILDAKALEDQA,EVEILDAKALE,recovered_candidate_models/HIP6_A2.11_DQ8/KEVEILDAKALEDQA/model_1.pdb,ranked_0 (71).pdb,f5a17d63358476dad0cdf55ac3a2860b
+HIP6/A2.11/DQ8,candidate,Candidate 7:,SESEVESDTALESEV,EVESDTALESE,recovered_candidate_models/HIP6_A2.11_DQ8/SESEVESDTALESEV/model_1.pdb,ranked_0 (72).pdb,4593d62314788ae77f2a4d146a340a9e
+HIP6/A2.11/DQ8,candidate,Candidate 8:,EIDELRAVEAVDEVS,EIDELRAVEAV,recovered_candidate_models/HIP6_A2.11_DQ8/EIDELRAVEAVDEVS/model_1.pdb,ranked_0 (73).pdb,41d16707b96b2e61927d78383992eca4
+HIP6/A2.11/DQ8,candidate,Candidate 9:,DITDLSTKTSVEYII,DLSTKTSVEYI,recovered_candidate_models/HIP6_A2.11_DQ8/DITDLSTKTSVEYII/model_1.pdb,ranked_0 (74).pdb,8d625e28af01d6b1aef79e43ee2e7cdf
+HIP6/A2.11/DQ8,candidate,Candidate 10:,KEVEILDARALEDQA,EVEILDARALE,recovered_candidate_models/HIP6_A2.11_DQ8/KEVEILDARALEDQA/model_1.pdb,ranked_0 (75).pdb,cb79750d61edd8d802cb90e9ee6de1a2
+HIP6/A2.11/DQ8,candidate,Candidate 11:,NSQEVPALTAVETGA,EVPALTAVETG,recovered_candidate_models/HIP6_A2.11_DQ8/NSQEVPALTAVETGA/model_2.pdb,ranked_0 (76).pdb,2276c6d09facda66cc2575245a7b8098
+HIP6/A2.11/DQ8,candidate,Candidate 11:,NSQEVPALTAVETGA,EVPALTAVETG,recovered_candidate_models/HIP6_A2.11_DQ8/NSQEVPALTAVETGA/model_3.pdb,ranked_0 (77).pdb,2c88c5aad21836228ab32cb79eed8273
+HIP6/A2.11/DQ8,candidate,Candidate 11:,NSQEVPALTAVETGA,EVPALTAVETG,recovered_candidate_models/HIP6_A2.11_DQ8/NSQEVPALTAVETGA/model_4.pdb,ranked_0 (78).pdb,20645a5ab8ac05ba2bc52277f24ee47c
+HIP6/A2.11/DQ8,candidate,Candidate 14:,ASVDVDVRLGVDPRK,SVDVDVRLGVD,recovered_candidate_models/HIP6_A2.11_DQ8/ASVDVDVRLGVDPRK/model_2.pdb,ranked_0 (79).pdb,137da6c572f62c01a6bb13c131461fce
+HIP11/8.E3/DQ8,native_HIP,HIP11,SLQPLALEAEDLQV,QPLALEAEDLQ,recovered_candidate_models/HIP11_8.E3_DQ8/SLQPLALEAEDLQV/model_4.pdb,ranked_0 (8) (1).pdb,d6ab3e6b908247eaef56f102d6115bae
+HIP6/A2.11/DQ8,candidate,Candidate 15:,HSKEIPALTAVETGA,EIPALTAVETG,recovered_candidate_models/HIP6_A2.11_DQ8/HSKEIPALTAVETGA/model_1.pdb,ranked_0 (80).pdb,0b0cebe40af5ab3f53742852c83979dd
+HIP6/A2.11/DQ8,candidate,Candidate 17:,RLCDLDTADAVEEMG,DLDTADAVEEM,recovered_candidate_models/HIP6_A2.11_DQ8/RLCDLDTADAVEEMG/model_1.pdb,ranked_0 (81).pdb,588b00fcfb09b29b5d0d6a009e9246d2
+HIP6/A2.11/DQ8,candidate,Candidate 17:,RLCDLDTADAVEEMG,DLDTADAVEEM,recovered_candidate_models/HIP6_A2.11_DQ8/RLCDLDTADAVEEMG/model_2.pdb,ranked_0 (82).pdb,6443eb7d1bf9e4412c45b36e3a99a0bf
+HIP6/A2.11/DQ8,candidate,Candidate 18:,NDDELAGNLGLDVSN,ELAGNLGLDVS,recovered_candidate_models/HIP6_A2.11_DQ8/NDDELAGNLGLDVSN/model_1.pdb,ranked_0 (83).pdb,261d93dac0fcc54b7aafd5dc2acc1893
+HIP6/A2.11/DQ8,candidate,Candidate 19:,GVEDVYLAGALEAQ,DVYLAGALEAQ,recovered_candidate_models/HIP6_A2.11_DQ8/GVEDVYLAGALEAQ/model_1.pdb,ranked_0 (84).pdb,ae0ed5daca6e9c81ddf01030c5032079
+HIP6/A2.11/DQ8,candidate,Candidate 20:,ADIDIMVAATIDNIM,DIDIMVAATID,recovered_candidate_models/HIP6_A2.11_DQ8/ADIDIMVAATIDNIM/model_1.pdb,ranked_0 (85).pdb,4481d5054cb54d773c62e8ba564cbf06
+HIP6/A2.11/DQ8,candidate,Candidate 21:,GPGEVNDSTTVEPVL,VNDSTTVEPVL,recovered_candidate_models/HIP6_A2.11_DQ8/GPGEVNDSTTVEPVL/model_1.pdb,ranked_0 (86).pdb,bb5b4722131973ad774c134c4ba88df2
+HIP6/A2.11/DQ8,candidate,Candidate 21:,GPGEVNDSTTVEPVL,VNDSTTVEPVL,recovered_candidate_models/HIP6_A2.11_DQ8/GPGEVNDSTTVEPVL/model_2.pdb,ranked_0 (87).pdb,80e1ce1e396a542f57cad346487add2a
+HIP6/A2.11/DQ8,candidate,Candidate 23:,VLREIQISPTLDDAD,EIQISPTLDDA,recovered_candidate_models/HIP6_A2.11_DQ8/VLREIQISPTLDDAD/model_1.pdb,ranked_0 (88).pdb,0ea01137960c10579a615becca7ed430
+HIP6/A2.11/DQ8,candidate,Candidate 24:,GHGEINDSTTVEPVL,EINDSTTVEPV,recovered_candidate_models/HIP6_A2.11_DQ8/GHGEINDSTTVEPVL/model_1.pdb,ranked_0 (89).pdb,5dac3474cc844d3fbee5cd7728750066
+HIP11/8.E3/DQ8,candidate,Candidate 1:,SDLLASVDSEEVRQ,LLASVDSEEVR,recovered_candidate_models/HIP11_8.E3_DQ8/SDLLASVDSEEVRQ/model_2.pdb,ranked_0 (9) (1).pdb,93230365290eb9e0995c0b952299ce46
+HIP6/A2.11/DQ8,candidate,Candidate 25:,GPGEVNDSTTVEPIL,VNDSTTVEPIL,recovered_candidate_models/HIP6_A2.11_DQ8/GPGEVNDSTTVEPIL/model_1.pdb,ranked_0 (90).pdb,a43ff8515d4cb5e885558b47439f754e
+HIP6/A2.11/DQ8,candidate,Candidate 24:,GHGEINDSTTVEPVL,EINDSTTVEPV,recovered_candidate_models/HIP6_A2.11_DQ8/GHGEINDSTTVEPVL/model_2.pdb,ranked_0 (91).pdb,74a46e41008d10841d63f779766f8b1d
+HIP6/A2.11/DQ8,candidate,Candidate 27:,VGVEVSAANTLEECW,GVEVSAANTLE,recovered_candidate_models/HIP6_A2.11_DQ8/VGVEVSAANTLEECW/model_1.pdb,ranked_0 (92).pdb,6e0597497a95dfdbb0efd47b7f0cbe0b
+HIP6/A2.11/DQ8,candidate,Candidate 28:,GHGEINDSTTVEPIL,EINDSTTVEPI,recovered_candidate_models/HIP6_A2.11_DQ8/GHGEINDSTTVEPIL/model_1.pdb,ranked_0 (93).pdb,7e7f8cac83103241f3ab71b4a7f661c4
+HIP11/8.E3/DQ8,negative_control,Negative Control:,KDVDAAVDAEVVQF,VDAAVDAEVVQ,recovered_candidate_models/HIP11_8.E3_DQ8/KDVDAAVDAEVVQF/model_6.pdb,ranked_0 (95).pdb,341f4768449ef7f0dea480707a895506
+HIP11/8.E3/DQ8-trans,candidate,Candidate 2:,DYVVNTINSDPVME,VVNTINSDPVM,recovered_candidate_models/HIP11_8.E3_DQ8-trans/DYVVNTINSDPVME/model_2.pdb,ranked_0 (97).pdb,41d1035376fd856aae640c4ccf3a4894
+HIP11/8.E3/DQ8-trans,candidate,Candidate 3:,REDTVSVKSEPVSE,DTVSVKSEPVS,recovered_candidate_models/HIP11_8.E3_DQ8-trans/REDTVSVKSEPVSE/model_1.pdb,ranked_0 (98).pdb,54beab0b37f7e5498d614786b0600d55
+HIP11/8.E3/DQ8-trans,candidate,Candidate 4:,YGKVHALVADAIRK,KVHALVADAIR,recovered_candidate_models/HIP11_8.E3_DQ8-trans/YGKVHALVADAIRK/model_1.pdb,ranked_0 (99).pdb,9846ca809f870c1f4d4edf3fd9822658
+HIP11/8.E3/DQ8-trans,candidate,Candidate 6:,DFIIRTLATERLPF,IIRTLATERLP,recovered_candidate_models/HIP11_8.E3_DQ8-trans/DFIIRTLATERLPF/model_1.pdb,ranked_0 - 2026-03-02T010811.012.pdb,c8b20805deca6ed99529ef38058938cc
+HIP11/8.E3/DQ8,candidate,Candidate 1:,SDLLASVDSEEVRQ,LLASVDSEEVR,recovered_candidate_models/HIP11_8.E3_DQ8/SDLLASVDSEEVRQ/model_3.pdb,ranked_0 - 2026-03-02T010822.578.pdb,a3b3267a7fa6d787dee898779688799d
+HIP11/8.E3/DQ8-trans,candidate,Candidate 8:,FHRPSTITADNVRA,RPSTITADNVR,recovered_candidate_models/HIP11_8.E3_DQ8-trans/FHRPSTITADNVRA/model_1.pdb,ranked_0 - 2026-03-02T010835.220.pdb,679667014aecdb007394e1509d2360a9
+HIP11/8.E3/DQ8,candidate,Candidate 4:,NDLLKSVDSEEIRE,LLKSVDSEEIR,recovered_candidate_models/HIP11_8.E3_DQ8/NDLLKSVDSEEIRE/model_2.pdb,ranked_0 - 2026-03-02T010847.302.pdb,72dbac824314de7b835906984f808609
+HIP11/8.E3/DQ8,candidate,Candidate 3:,SDLLKSVDSEEVRE,LLKSVDSEEVR,recovered_candidate_models/HIP11_8.E3_DQ8/SDLLKSVDSEEVRE/model_2.pdb,ranked_0 - 2026-03-02T010856.376.pdb,714ab3715dd8e0a289b638edb770bc3e
+HIP11/8.E3/DQ8-trans,candidate,Candidate 11:,HVAIISVTTDVLGP,AIISVTTDVLG,recovered_candidate_models/HIP11_8.E3_DQ8-trans/HVAIISVTTDVLGP/model_1.pdb,ranked_0 - 2026-03-02T010907.712.pdb,cb497c67ac70da3ed445bc426160bbdb
+HIP11/8.E3/DQ8-trans,candidate,Candidate 12:,IPHPDAIVADGLPA,HPDAIVADGLP,recovered_candidate_models/HIP11_8.E3_DQ8-trans/IPHPDAIVADGLPA/model_1.pdb,ranked_0 - 2026-03-02T010918.098.pdb,382dfbd3d9c8fda3190650e411bfd1e4
+HIP11/8.E3/DQ8-trans,candidate,Candidate 13:,GKDIEGVGSEDLVN,DIEGVGSEDLV,recovered_candidate_models/HIP11_8.E3_DQ8-trans/GKDIEGVGSEDLVN/model_1.pdb,ranked_0 - 2026-03-02T010928.460.pdb,89a85842c475f142f3794ead146ff862
+HIP11/8.E3/DQ8-trans,candidate,Candidate 14:,KGIDSTVEAELLKF,IDSTVEAELLK,recovered_candidate_models/HIP11_8.E3_DQ8-trans/KGIDSTVEAELLKF/model_1.pdb,ranked_0 - 2026-03-02T010950.804.pdb,9081330da289067880b0b94ba1bb3374
+HIP11/8.E3/DQ8-trans,candidate,Candidate 15:,RTRIKTLTTDTIIA,RIKTLTTDTII,recovered_candidate_models/HIP11_8.E3_DQ8-trans/RTRIKTLTTDTIIA/model_1.pdb,ranked_0 - 2026-03-02T011048.254.pdb,84291ce1322e798dcf2e59f36fde31eb
+HIP11/8.E3/DQ8-trans,candidate,Candidate 16:,LQEILTIKSDDVVG,EILTIKSDDVV,recovered_candidate_models/HIP11_8.E3_DQ8-trans/LQEILTIKSDDVVG/model_1.pdb,ranked_0 - 2026-03-02T011102.352.pdb,52da86806275129bb357602beaedc676
+HIP11/8.E3/DQ8-trans,candidate,Candidate 18:,KHVANSVFAEIIKT,VANSVFAEIIK,recovered_candidate_models/HIP11_8.E3_DQ8-trans/KHVANSVFAEIIKT/model_1.pdb,ranked_0 - 2026-03-02T011215.161.pdb,c70c6916bc8943a228ee5f7df9a3a8a8
+HIP11/8.E3/DQ8-trans,candidate,Candidate 3:,REDTVSVKSEPVSE,DTVSVKSEPVS,recovered_candidate_models/HIP11_8.E3_DQ8-trans/REDTVSVKSEPVSE/model_2.pdb,ranked_0 - 2026-03-02T011632.769.pdb,196dfc0e55cc7e6e99cc6789336474da
+HIP11/8.E3/DQ8-trans,candidate,Candidate 13:,GKDIEGVGSEDLVN,DIEGVGSEDLV,recovered_candidate_models/HIP11_8.E3_DQ8-trans/GKDIEGVGSEDLVN/model_2.pdb,ranked_0 - 2026-03-02T012144.724.pdb,e299d1c9a61aafd6dd9c40e3a81b37c7
+HIP11/8.E3/DQ8-trans,candidate,Candidate 14:,KGIDSTVEAELLKF,IDSTVEAELLK,recovered_candidate_models/HIP11_8.E3_DQ8-trans/KGIDSTVEAELLKF/model_2.pdb,ranked_0 - 2026-03-02T012158.098.pdb,7b84e89a47770d0ff3f4cb5d159e2017
+HIP11/8.E3/DQ8-trans,candidate,Candidate 17:,FHRPSTVTTDSVRA,RPSTVTTDSVR,recovered_candidate_models/HIP11_8.E3_DQ8-trans/FHRPSTVTTDSVRA/model_1.pdb,ranked_0 - 2026-03-02T012957.960.pdb,fe31b0b5ca177ddff1e52ef53f86b906
+HIP11/8.E3/DQ8-trans,candidate,Candidate 18:,KHVANSVFAEIIKT,VANSVFAEIIK,recovered_candidate_models/HIP11_8.E3_DQ8-trans/KHVANSVFAEIIKT/model_2.pdb,ranked_0 - 2026-03-02T013012.860.pdb,ee73a8f137f2dcfff4f6622a9e3ea221
+HIP11/8.E3/DQ8-trans,candidate,Candidate 19:,DLYTTGVIADIVRV,LYTTGVIADIV,recovered_candidate_models/HIP11_8.E3_DQ8-trans/DLYTTGVIADIVRV/model_1.pdb,ranked_0 - 2026-03-02T013024.567.pdb,59cc6826743df5b287291f3633a91ec5
+HIP11/8.E3/DQ8-trans,candidate,Candidate 20:,RDISSTIATEKIPF,DISSTIATEKI,recovered_candidate_models/HIP11_8.E3_DQ8-trans/RDISSTIATEKIPF/model_1.pdb,ranked_0 - 2026-03-02T013039.192.pdb,a311ef3f2a4bef0d8b48f27a024e8545
+HIP11/8.E3/DQ8,candidate,Candidate 1:,SDLLASVDSEEVRQ,LLASVDSEEVR,recovered_candidate_models/HIP11_8.E3_DQ8/SDLLASVDSEEVRQ/model_4.pdb,ranked_0 - 2026-03-02T013939.237.pdb,a6046ca154eb73bf32ea51d6d851b478
+HIP11/8.E3/DQ8,candidate,Candidate 2:,YTGDLGIESDELAS,DLGIESDELAS,recovered_candidate_models/HIP11_8.E3_DQ8/YTGDLGIESDELAS/model_3.pdb,ranked_0 - 2026-03-02T014012.314.pdb,e79c337795576733a680d46afb549301
+HIP11/8.E3/DQ8,candidate,Candidate 3:,SDLLKSVDSEEVRE,LLKSVDSEEVR,recovered_candidate_models/HIP11_8.E3_DQ8/SDLLKSVDSEEVRE/model_3.pdb,ranked_0 - 2026-03-02T014038.742.pdb,b8be1b6c44a4d27b51bceac61b73157f
+HIP11/8.E3/DQ8,candidate,Candidate 4:,NDLLKSVDSEEIRE,LLKSVDSEEIR,recovered_candidate_models/HIP11_8.E3_DQ8/NDLLKSVDSEEIRE/model_3.pdb,ranked_0 - 2026-03-02T014118.108.pdb,cde783ab9cbc5f87d3ed91dd0f6b6fff
+HIP11/8.E3/DQ8,candidate,Candidate 6:,DHIAATLDAEATFA,IAATLDAEATF,recovered_candidate_models/HIP11_8.E3_DQ8/DHIAATLDAEATFA/model_2.pdb,ranked_0 - 2026-03-02T014203.806.pdb,6f51bde0ccfc3cd43760bc6d4df01c9d
+HIP11/8.E3/DQ8,candidate,Candidate 7:,ADLLKSVDSEDVRE,LLKSVDSEDVR,recovered_candidate_models/HIP11_8.E3_DQ8/ADLLKSVDSEDVRE/model_1.pdb,ranked_0 - 2026-03-02T014216.151.pdb,ce8a246fc319c8ac84a135af620fbe92
+HIP11/8.E3/DQ8,native_HIP,HIP11,SLQPLALEAEDLQV,QPLALEAEDLQ,recovered_candidate_models/HIP11_8.E3_DQ8/SLQPLALEAEDLQV/model_5.pdb,ranked_0 - 2026-03-02T014243.538.pdb,b8733c10aca8ebed683e5da11bb418e9
+HIP11/8.E3/DQ8,negative_control,Negative Control:,KDVDAAVDAEVVQF,VDAAVDAEVVQ,recovered_candidate_models/HIP11_8.E3_DQ8/KDVDAAVDAEVVQF/model_7.pdb,ranked_0 - 2026-03-02T014303.773.pdb,c0c1a00803f8883754febbf9dfbf27bf
+HIP11/8.E3/DQ8-trans,candidate,Candidate 1:,RRNVATLQAENVTG,NVATLQAENVT,recovered_candidate_models/HIP11_8.E3_DQ8-trans/RRNVATLQAENVTG/model_3.pdb,ranked_0 - 2026-03-04T195837.225.pdb,e2382302d02f484144ad01d94c83188b
+HIP11/8.E3/DQ8-trans,candidate,Candidate 1:,RRNVATLQAENVTG,NVATLQAENVT,recovered_candidate_models/HIP11_8.E3_DQ8-trans/RRNVATLQAENVTG/model_4.pdb,ranked_0 - 2026-03-04T195840.846.pdb,1c15bcba2ea8980f7e9dc5d9ea0e4c5f
+HIP11/8.E3/DQ8-trans,candidate,Candidate 1:,RRNVATLQAENVTG,NVATLQAENVT,recovered_candidate_models/HIP11_8.E3_DQ8-trans/RRNVATLQAENVTG/model_5.pdb,ranked_0 - 2026-06-14T141118.664.pdb,d1d909f0443ad03353037803bae893a6
+HIP11/8.E3/DQ8,native_HIP,HIP11,SLQPLALEAEDLQV,QPLALEAEDLQ,recovered_candidate_models/HIP11_8.E3_DQ8/SLQPLALEAEDLQV/model_6.pdb,ranked_0 - 2026-07-29T233223.577.pdb,426cb7ebe9942973a506fe71fcb820fe
